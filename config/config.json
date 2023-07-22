@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x648689Cf76522298d90f672d74Bad94b942111Ff",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x648689Cf76522298d90f672d74Bad94b942111Ff",
+  "NETWORK": {
+    "NAME": "Polygon Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "NEWCO-NFT",
+  "SYMBOL": "$NEWCO",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/NEWCO-NFT",
+  "SHOW_BACKGROUND": true
+}
